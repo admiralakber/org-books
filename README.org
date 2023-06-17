@@ -1,0 +1,18 @@
+#+TITLE: Org-Books, a paperless book like experience with org mode
+#+AUTHOR: Aqeel Ahmad Akber
+
+* So you want to go paperless?
+The motivation is always clear but the execution almost always falls
+short. At least, that has been my experience with trying to go
+paperless in the past. I just couldn’t find anything that could beat
+the simple, intuitive, and fast user experience of picking up a pen
+and scribbling in a hard covered notebook.
+
+Not only is paper easy to use for the person creating the material, it
+is also easy to share, or keep secure. But, “insert all obvious
+motivations for going paperless”, so I rolled my own solution that
+addresses the above shortcomings.
+
+The above is a snippet from a blog post I wrote on 2016-12-21, I have
+since brought down the blog. The success and failings of my solution
+back then is what made Org-Books.
